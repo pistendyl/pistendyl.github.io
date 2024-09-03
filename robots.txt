@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pistendyl.github.io/sitemap.html.gz
+Sitemap: https://pistendyl.github.io/app/sitemap.html.gz
+Sitemap: https://pistendyl.github.io/assets/sitemap.html.gz
+Sitemap: https://pistendyl.github.io/css/sitemap.html.gz
+Sitemap: https://pistendyl.github.io/includes/sitemap.html.gz
+Sitemap: https://pistendyl.github.io/item/sitemap.html.gz
+Sitemap: https://pistendyl.github.io/src/sitemap.html.gz
